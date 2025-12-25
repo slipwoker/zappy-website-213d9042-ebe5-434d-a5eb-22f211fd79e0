@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elul-image-makers-213d9042.zappy5.app/sitemap.xml

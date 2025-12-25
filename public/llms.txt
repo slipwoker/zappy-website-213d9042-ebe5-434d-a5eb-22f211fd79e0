@@ -1,0 +1,70 @@
+# ELUL Image Makers — Generative Engine Optimization Map
+
+> ELUL Image Makers - תקשורת חזותית - Branding, Graphic Design, Creative Graphics, Packaging design, Web design, Presentations, Copy, Videos, Photography, Illustrations, Infographics
+
+---
+
+## Pages
+
+### Home
+https://elul-image-makers-213d9042.zappy5.app
+Transform your brand with expert web design and development, branding, and graphic design services. ELUL Image Makers delivers creative visual communication solutions.
+
+### Services
+https://elul-image-makers-213d9042.zappy5.app/services
+Comprehensive graphic design services including branding, web design and development, packaging, photography, videos, and more. Professional creative solutions for your business.
+
+### About
+https://elul-image-makers-213d9042.zappy5.app/about
+Learn about ELUL Image Makers, a creative agency specializing in branding, web design and development, and graphic design services for diverse industries. Meet our team and discover our approach.
+
+### Contact
+https://elul-image-makers-213d9042.zappy5.app/contact
+Contact ELUL Image Makers for branding, web design and development, and graphic design services. Get a free consultation for your next creative project.
+
+## Legal & Policy
+
+### Privacy Policy
+https://elul-image-makers-213d9042.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://elul-image-makers-213d9042.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://elul-image-makers-213d9042.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ELUL Image Makers
+ELUL Image Makers - תקשורת חזותית - Branding, Graphic Design, Creative Graphics, Packaging design, Web design, Presentations, Copy, Videos, Photography, Illustrations, Infographics
+
+## Services/Products
+- Branding
+- Graphic Design
+- Creative Graphics
+- Packaging design
+- Web design
+- Presentations
+- Copy
+- Videos
+- Photography
+- Illustrations
+- Infographics
+
+## Target Audience
+startups, established businesses, pharmaceutical, medical, consumer goods, infrastructure, food, agriculture, and financial industries
+
+## Industry
+creative services
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://elul-image-makers-213d9042.zappy5.app/sitemap.xml
+- **Robots.txt**: https://elul-image-makers-213d9042.zappy5.app/robots.txt
